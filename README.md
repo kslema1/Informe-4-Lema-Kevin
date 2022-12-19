@@ -346,11 +346,15 @@ SECCIÓN 8–8 Conversiones delta a Y ( a Y) y Y a
 
 ![image](https://user-images.githubusercontent.com/116772752/208327058-c8a37b73-4ff7-4646-b2d2-42ecbf9b6288.png)
 
-ME FALTA UNA IMAGEN DESCARGADA
+![image](https://user-images.githubusercontent.com/116772752/208327386-483021bc-6655-4eec-9314-f17a6786d48f.png)
 
 36.-Determine todas las corrientes que circulan en el circuito de la siguiente figura.
 
-IMAGENES: 3 Q NO PUEDO PEGAR
+![image](https://user-images.githubusercontent.com/116772752/208327427-98784f81-bb28-4bdf-ad5d-34528bc16a81.png)
+
+![image](https://user-images.githubusercontent.com/116772752/208327470-48f9f7bb-c839-4e9b-8fc1-c2dc5a8d09d4.png)
+
+![image](https://user-images.githubusercontent.com/116772752/208327525-c508bf83-614c-4f74-aa3a-e81d3ee614de.png)
 
 5.-Video
 
