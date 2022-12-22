@@ -358,7 +358,7 @@ SECCIÓN 8–8 Conversiones delta a Y ( a Y) y Y a
 
 5.-Video
 
-IUIYOVILIBHBKVHJV
+https://youtu.be/YTd116my7Mo
 
 6.- CONCLUSIONES
 
